@@ -9,8 +9,8 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 });
 
 // Mobile menu toggle
-const menuBtn = document.querySelector('.menu-btn');
-const navLinks = document.querySelector('.nav-links');
+// const menuBtn = document.querySelector('.menu-btn');
+// const navLinks = document.querySelector('.nav-links');
 
 menuBtn.addEventListener('click', () => {
     navLinks.style.display = navLinks.style.display === 'flex' ? 'none' : 'flex';
