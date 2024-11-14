@@ -224,10 +224,10 @@ footer {
         display: none;
     }
 
-    .menu-btn {
+/*     .menu-btn {
         display: block;
         cursor: pointer;
-    }
+    } */
 
     .menu-btn span {
         display: block;
